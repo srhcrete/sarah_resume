@@ -1,0 +1,45 @@
+.heading{
+  text-transform: uppercase;
+  text-align: center;
+  background-color: #1E2E3B;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.border{
+  border-top: solid;
+  border-left: solid;
+  border-right: solid;
+  border-color: white;
+  border-radius: 15%;
+  margin: 50px;
+}
+
+.contact-info{
+  list-style: none;
+  text-transform: capitalize;
+}
+
+.email{
+  text-transform: lowercase;
+}
+h2{
+  border-top: solid;
+  border-bottom: solid;
+  border-width: medium;
+  border-color: #8DA1B1;
+}
+
+ul {
+  list-style: none;
+}
+.sidebar{
+  float: left;
+  width: 15%;
+  height: 100vh;
+  margin-top: 0;
+  background-color: white;
+}
+.section {
+
+}
